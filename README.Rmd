@@ -1,0 +1,16 @@
+---
+title: "AI Ethics Workshop with Laura Summers"
+date: "28/02/2022"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+- Find the PDF slides of the event in this repo 
+
+- Sweet Summer Child Score Quiz Repository: https://github.com/summerscope/summerchildpy
+
+- YouTube Video: https://www.youtube.com/watch?v=j2cH7JWIUcI&ab_channel=R-LadiesMelbourne
